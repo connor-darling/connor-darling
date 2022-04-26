@@ -1,16 +1,28 @@
-### Hi there 👋
+<h2 align="center"> Connor <img align="center" src="./resources/goat.png" width="25"></h2>
 
-<!--
-**connor-darling/connor-darling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+&nbsp; <a href="https://www.linkedin.com/in/aguilerac/" target="_blank" rel="noopener noreferrer"><img align="center" src="./resources/LinkedIn-logo.png" width="20" /></a>
+&nbsp; <img align="center" src="./resources/gmail.png" width="15" /> - 18aguilerac@gmail.com
+</p>
 
-Here are some ideas to get you started:
+<img align="right" alt="GIF" src="./resources/yup.gif" width="375"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>About Me </h3>
+
+- <img align="center" src="./resources/ethika-logo.png" width="14">&nbsp; Ethika - Junior Web Developer
+- <img align="center" src="./resources/frontend.png" width="14">&nbsp; Learning Frontend as I go, using Vue.Js, HTML, and PHP
+- <img align="center" src="./resources/onepiece.png" width="14">&nbsp; Anime OFC
+- <img align="center" src="./resources/soccer.png" width="14">&nbsp; Snowboarding & Soccer
+
+<h3>Tech Stack</h3>
+
+- 💻 &nbsp; C++ | PHP 
+- 🌐 &nbsp; Vue.js | HTML | CSS | JavaScript
+- 🔧 &nbsp; Linux | Git | Microsoft Office | Google Analytics | SDL
+
+<br>
+<p float="left">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Puwya&include_all_commits=true&count_private=true&show_icons=true&line_height=22.5&hide_rank=true&title_color=9DB8C8&icon_color=2B6CBA&text_color=D3D3D3&bg_color=0,000000,2F6586" alt="Carlos's Github Stats"/>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puwya&layout=compact&title_color=9DB8C8&text_color=D3D3D3&bg_color=0,000000,2F6586" alt="Carlos's top languages"/>
+</p>
