@@ -16,7 +16,7 @@
 
 <h3>Tech Stack</h3>
 
-- 💻 &nbsp; C++ | PHP 
+- 💻 &nbsp; C++ | Python 
 - 🌐 &nbsp; HTML | CSS | JavaScript
 - 🔧 &nbsp; Linux | Git | Microsoft Office | Google Analytics | SDL
 
