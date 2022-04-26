@@ -2,7 +2,7 @@
 
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/aguilerac/" target="_blank" rel="noopener noreferrer"><img align="center" src="./resources/LinkedIn-logo.png" width="20" /></a>
-&nbsp; <img align="center" src="./resources/gmail.png" width="15" /> - 18aguilerac@gmail.com
+&nbsp; <img align="center" src="./resources/gmail.png" width="15" /> - connordarling@me.com
 </p>
 
 <img align="right" alt="GIF" src="./resources/yup.gif" width="375"/>
