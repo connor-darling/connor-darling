@@ -9,20 +9,20 @@
 
 <h3>About Me </h3>
 
-- <img align="center" src="./resources/ethika-logo.png" width="14">&nbsp; Ethika - Junior Web Developer
-- <img align="center" src="./resources/frontend.png" width="14">&nbsp; Learning Frontend as I go, using Vue.Js, HTML, and PHP
-- <img align="center" src="./resources/onepiece.png" width="14">&nbsp; Anime OFC
-- <img align="center" src="./resources/soccer.png" width="14">&nbsp; Snowboarding & Soccer
+- <img align="center" src="./resources/ethika-logo.png" width="14">&nbsp; // write shit here later
+- <img align="center" src="./resources/frontend.png" width="14">&nbsp; // write shit here later
+- <img align="center" src="./resources/onepiece.png" width="14">&nbsp; // write shit here later
+- <img align="center" src="./resources/soccer.png" width="14">&nbsp; // write shit here later
 
 <h3>Tech Stack</h3>
 
 - 💻 &nbsp; C++ | PHP 
-- 🌐 &nbsp; Vue.js | HTML | CSS | JavaScript
+- 🌐 &nbsp; HTML | CSS | JavaScript
 - 🔧 &nbsp; Linux | Git | Microsoft Office | Google Analytics | SDL
 
 <br>
 <p float="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Puwya&include_all_commits=true&count_private=true&show_icons=true&line_height=22.5&hide_rank=true&title_color=9DB8C8&icon_color=2B6CBA&text_color=D3D3D3&bg_color=0,000000,2F6586" alt="Carlos's Github Stats"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=connor-darling&include_all_commits=true&count_private=true&show_icons=true&line_height=22.5&hide_rank=true&title_color=9DB8C8&icon_color=2B6CBA&text_color=D3D3D3&bg_color=0,000000,2F6586" alt=Connor's Github Stats"/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puwya&layout=compact&title_color=9DB8C8&text_color=D3D3D3&bg_color=0,000000,2F6586" alt="Carlos's top languages"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=connor-darling&layout=compact&title_color=9DB8C8&text_color=D3D3D3&bg_color=0,000000,2F6586" alt="Connor's top languages"/>
 </p>
