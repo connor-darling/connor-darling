@@ -1,15 +1,13 @@
-<h2 align="center"> Connor Darling <img align="center" src="./resources/goat.png" width="25"></h2>
+<h2 align="center"> Connor Darling <img align="center" src="./resources/gitREADME/goat.png" width="25"></h2>
 
 <p align="center">
-&nbsp; <a href="https://www.linkedin.com/in/connordarling/" target="_blank" rel="noopener noreferrer"><img align="center" src="./resources/LinkedIn-logo.png" width="20" /></a>
-&nbsp; <img align="center" src="./resources/gmail.png" width="15" /> - connordarling@me.com
+&nbsp; <a href="https://www.linkedin.com/in/connordarling/" target="_blank" rel="noopener noreferrer"><img align="center" src="./resources/gitREADME/linked-in-logo.png" width="20" /></a>
+&nbsp; <img align="center" src="./resources/gitREADME/apple-mail-logo" width="15" /> - connordarling@me.com
 </p>
-
-<img align="right" alt="GIF" src="./resources/yup.gif" width="375"/>
 
 <h3>About Me </h3>
 
-- <img align="center" src="./resources/saddleback-college-logo.png" width="14">&nbsp; Yr 2 Student at Saddleback College
+- <img align="center" src="./resources/gitREADME/saddleback-college-logo.png" width="14">&nbsp; Yr 2 Student at Saddleback College
 
 <h3>Tech Stack</h3>
 
