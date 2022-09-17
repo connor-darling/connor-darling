@@ -1,4 +1,4 @@
-<h2 align="center"> Connor Darling <img align="center" src="cpp-logo.png" width="25"></h2>
+<h2 align="center"> Connor Darling <img align="center" src="src/resources/guts.png" width="25"></h2>
 
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/connordarling/" target="_blank" rel="noopener noreferrer"><img align="center" src="src/resources/linked-in-logo.png" width="20" /></a>
@@ -11,7 +11,7 @@
 
 <h3>Tech Stack</h3>
 
-- 💻 &nbsp; C++ | Java 
+- 💻 &nbsp; C++ <img align="center" src="cpp-logo.png" width="25"> | Java <img align="center" src="src/resources/java-logo.png" width="25">
 - 🔧 &nbsp; Linux | Git | Microsoft Office | Google Analytics | RayLib
 
 <br>
