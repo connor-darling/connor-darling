@@ -9,10 +9,7 @@
 
 <h3>About Me </h3>
 
-- <img align="center" src="./resources/ethika-logo.png" width="14">&nbsp; // Student at Saddleback College
-- <img align="center" src="./resources/frontend.png" width="14">&nbsp; // write here later
-- <img align="center" src="./resources/onepiece.png" width="14">&nbsp; // write here later
-- <img align="center" src="./resources/soccer.png" width="14">&nbsp; // write here later
+- <img align="center" src="./resources/saddleback-college-logo.png" width="14">&nbsp; Yr 2 Student at Saddleback College
 
 <h3>Tech Stack</h3>
 
