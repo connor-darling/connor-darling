@@ -8,6 +8,7 @@
 <h3>About Me </h3>
 
 - <img align="center" src="./resources/gitREADME/saddleback-college-logo.png" width="14">&nbsp; Yr 2 Student at Saddleback College
+- [plot](./resources/gitREADME/saddleback-college-logo.png)
 
 <h3>Tech Stack</h3>
 
