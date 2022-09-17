@@ -2,13 +2,12 @@
 
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/connordarling/" target="_blank" rel="noopener noreferrer"><img align="center" src="src/resources/linked-in-logo.png" width="20" /></a>
-&nbsp; <img align="center" src="src/resources/apple-mail-logo" width="15" /> - connordarling@me.com
+&nbsp; <img align="center" src="src/resources/apple-mail-logo.png" width="20" /> - connordarling@me.com
 </p>
 
 <h3>About Me </h3>
 
 - <img align="center" src="src/resources/saddleback-college-logo.png" width="14">&nbsp; Yr 2 Student at Saddleback College
-- [](src/resources/saddleback-college-logo.png)
 
 <h3>Tech Stack</h3>
 
