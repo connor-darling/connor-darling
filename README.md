@@ -1,4 +1,4 @@
-<h2 align="center"> Connor Darling <img align="center" src="src/resources/supreme-logo.png" width="40"></h2>
+<h2 align="center"> Connor Darling <img align="center" src="src/resources/supreme-logo.png" width="60"></h2>
 
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/connordarling/" target="_blank" rel="noopener noreferrer"><img align="center" src="src/resources/linked-in-logo.png" width="20" /></a>
@@ -7,7 +7,7 @@
 
 <h3>About Me </h3>
 
-- <img align="center" src="src/resources/saddleback-college-logo.png" width="14">&nbsp; Yr 2 Student at Saddleback College
+- <img align="center" src="src/resources/saddleback-college-logo.png" width="14">&nbsp; Student at Saddleback College
 
 <h3>Tech Stack</h3>
 
