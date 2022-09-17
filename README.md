@@ -1,4 +1,4 @@
-<h2 align="center"> Connor Darling <img align="center" src="src/resources/supreme-box-logo.png" width="25"></h2>
+<h2 align="center"> Connor Darling <img align="center" src="src/resources/supreme-box-logo.png" width="40"></h2>
 
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/connordarling/" target="_blank" rel="noopener noreferrer"><img align="center" src="src/resources/linked-in-logo.png" width="20" /></a>
