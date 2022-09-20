@@ -2,6 +2,7 @@
 <!---
 <img align="center" src="src/resources/supreme-logo.png" width="60"></h2>
 --->
+</h2>
 
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/connordarling/" target="_blank" rel="noopener noreferrer"><img align="center" src="src/resources/linked-in-logo.png" width="20" /></a>
