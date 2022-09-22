@@ -22,8 +22,9 @@
 <p float="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=connor-darling&include_all_commits=true&count_private=true&show_icons=true&line_height=22.5&hide_rank=true&title_color=9DB8C8&icon_color=2B6CBA&text_color=D3D3D3&bg_color=0,000000,2F6586" alt=Connor's Github Stats"/>
 
-
 <!---
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=connor-darling&layout=compact&title_color=9DB8C8&text_color=D3D3D3&bg_color=0,000000,2F6586" alt="Connor's top languages"/>
-</p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=connor-darling&count_private=true&layout=compact&title_color=9DB8C8&text_color=D3D3D3&bg_color=0,000000,2F6586" alt="Connor's top languages"/>
 --->
+
+</p>
+
