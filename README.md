@@ -6,12 +6,7 @@
 
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/connor-darling-206a05238" target="_blank" rel="noopener noreferrer"><img align="center" src="src/resources/linked-in-logo.png" width="20" /></a>
-
-&nbsp; <a href="connordarling@me.com" target="_blank" rel="noopener noreferrer"><img align="center" src="src/resources/apple-mail-logo.png" width="20" /></a>
-
-<!---
 &nbsp; <img align="center" src="src/resources/apple-mail-logo.png" width="20" /> - connordarling@me.com
---->
 </p>
 
 <h3>About Me </h3>
