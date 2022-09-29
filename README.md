@@ -82,43 +82,7 @@
         <img src="resources/cmake.png" width="32" height="32" alt="Cmake" />
         <br />Cmake
       </td>
-      <!-- <td align="center" width="80">
-        <img src="resources/mongodb.png" width="32" height="32" alt="Mongodb" />
-        <br />Mongodb
-      </td> -->
     </tr>
-    <!-- <tr>
-      <td align="center" width="80">
-        <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/"
-          ><img
-            src="resources/bootstrap-plain.svg"
-            width="32"
-            height="32"
-            alt="Bootstrap"
-        /></a>
-        <br />Bootstrap
-      </td>
-      <td align="center" width="80">
-        <a href="https://devdocs.io/php/"
-          ><img src="resources/PHP.png" width="32" height="32" alt="PHP"
-        /></a>
-        <br />PHP
-      </td>
-      <td align="center" width="80">
-        <a href="https://www.raylib.com/"
-          ><img src="resources/raylib.png" width="32" height="32" alt="Raylib"
-        /></a>
-        <br />Raylib
-      </td>
-      <td align="center" width="80">
-        <img src="resources/css.png" width="32" height="32" alt="CSS" />
-        <br />CSS
-      </td>
-      <td align="center" width="80">
-        <img src="resources/nodejs.png" width="32" height="32" alt="Node js" />
-        <br />Node Js
-      </td>
-    </tr> -->
   </table>
 </div>
 
@@ -126,9 +90,6 @@
 <br>
 
 <div align="center">
-  <!-- <h3>
-    About me
-  </h3> -->
   <img align="center" src="resources/saddleback-college-logo.png" width="14" />&nbsp;
     Student at Saddleback College
 
