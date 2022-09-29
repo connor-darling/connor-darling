@@ -94,6 +94,7 @@
     Student at Saddleback College
 
   <br>
+  <br>
 
   <p float="center">
     <img align="center"
