@@ -2,7 +2,7 @@
   Connor Darling
 </h2>
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<!-- <div style="display: flex; justify-content: center; align-items: center;">
   <div style="text-align: center; margin: 0 10px;">
     <a href="https://www.linkedin.com/in/connor-darling-206a05238" target="_blank" rel="noopener noreferrer">
       <img src="resources/linked-in-logo.png" width="27" alt="LinkedIn Logo" style="display: block; margin: 0 auto; padding-bottom: 13px">
@@ -27,7 +27,7 @@
 </div>
 
 <br>
-<br>
+<br> -->
 
 <div align="center">
   <b>Tools, Languages, and Libraries</b>
