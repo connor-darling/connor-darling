@@ -2,42 +2,23 @@
   Connor Darling
 </h2>
 
-<!-- <div style="display: flex; justify-content: center; align-items: center;">
-  <div style="text-align: center; margin: 0 10px;">
-    <a href="https://www.linkedin.com/in/connor-darling-206a05238" target="_blank" rel="noopener noreferrer">
-      <img src="resources/linked-in-logo.png" width="27" alt="LinkedIn Logo" style="display: block; margin: 0 auto; padding-bottom: 13px">
-      LinkedIn
-    </a>
-
-  </div>
-
-  <div style="text-align: center; margin: 0 10px;">
-    <a href="https://example.com/portfolio" target="_blank" rel="noopener noreferrer">
-      <img src="resources/portfolio.png" width="40" alt="Portfolio Icon" style="display: block; margin: 0 auto;">
-      Portfolio
-    </a>
-  </div>
-
-  <div style="text-align: center; margin: 0 10px;">
-    <a href="https://example.com/resume" target="_blank" rel="noopener noreferrer">
-      <img src="resources/resume.png" width="40" alt="Resume Icon" style="display: block; margin: 0 auto;">
-      Resume
-    </a>
-  </div>
-</div>
-
 <br>
-<br> -->
 
-<div align="center">
-  <b>Tools, Languages, and Libraries</b>
+<div>
   <p>
-    Greetings! I'm Connor, a dedicated third-year student pursuing a 
+    Hello! I'm Connor, a dedicated third-year student pursuing a 
     Bachelor's of Science degree in Software Engineering at the University of 
     California, Irvine. Currently, my primary objective is to secure a software 
     engineering internship opportunity. With a genuine passion for the field, 
     I possess a versatile skill set encompassing both front-end and back-end development.
   </p>
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  <b>Tools, Languages, and Libraries</b>
 </div>
 
 <br>
@@ -120,8 +101,8 @@
 <br>
 
 <div align="center">
-  <img align="center" src="resources/saddleback-college-logo.png" width="14" />&nbsp;
-    Student at Saddleback College
+  <img align="center" src="resources/uci.jpeg" width="40" />&nbsp;
+    Student at University of Califronia, Irvine
 
   <br>
   <br>
