@@ -31,6 +31,13 @@
 
 <div align="center">
   <b>Tools, Languages, and Libraries</b>
+  <p>
+    Greetings! I'm Connor, a dedicated third-year student pursuing a 
+    Bachelor's of Science degree in Software Engineering at the University of 
+    California, Irvine. Currently, my primary objective is to secure a software 
+    engineering internship opportunity. With a genuine passion for the field, 
+    I possess a versatile skill set encompassing both front-end and back-end development.
+  </p>
 </div>
 
 <br>
