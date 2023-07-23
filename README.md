@@ -6,11 +6,10 @@
 
 <div>
   <p>
-    Hello! I'm Connor, a dedicated third-year student pursuing a 
+    I'm Connor, a third-year student pursuing a 
     Bachelor's of Science degree in Software Engineering at the University of 
-    California, Irvine. Currently, my primary objective is to secure a software 
-    engineering internship opportunity. With a genuine passion for the field, 
-    I possess a versatile skill set encompassing both front-end and back-end development.
+    California, Irvine. Currently, my primary goal is to secure a software 
+    engineering internship opportunity. 
   </p>
 </div>
 
