@@ -4,9 +4,8 @@
 
 <div>
   <p>
-    I'm Connor, a third-year student pursuing a 
+    I'm Connor, a fourth-year student pursuing a 
     Bachelor's of Science degree in Software Engineering at the University of 
-    California, Irvine. Currently, my primary goal is to secure a software 
-    engineering internship opportunity. 
+    California, Irvine.
   </p>
 </div>
