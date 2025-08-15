@@ -59,8 +59,6 @@ SEO Optimization, Real-Time Chat
 
 ---
 
-### Key Features
-
 ## Key Features at a Glance
 
 ### Profiles
