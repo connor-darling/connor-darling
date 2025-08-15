@@ -61,7 +61,7 @@ SEO Optimization, Real-Time Chat
 
 ## Key Features at a Glance
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
 
