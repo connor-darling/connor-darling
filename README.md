@@ -1,7 +1,13 @@
-# 👋 Hey, I’m Connor Darling
+<p align="center">
+  <img src="assets/connor.jpg"
+       alt="Connor Darling"
+       width="140" height="140"
+       style="border-radius:50%; object-fit:cover;">
+</p>
 
-I’m a software developer passionate about building interactive, high performance web applications
-Currently, my flagship project is **The Inked Network**, a full-stack platform that connects tattoo collectors with artists worldwide.
+<h2 align="center">👋 Hey, I’m Connor Darling</h2>
+
+I’m a software developer passionate about building interactive, high-performance web applications. Currently, my flagship project is **The Inked Network**, a full stack platform that connects tattoo collectors with artists worldwide, featuring AI powered search, auto tagging, and personalized recommendations
 
 I'm also a current Software Engineering student at the University of California, Irvine
 
@@ -20,29 +26,32 @@ I'm also a current Software Engineering student at the University of California,
 
 ### Tech Stack
 
-- **Frontend:**
-  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt&logoColor=white" alt="Nuxt.js" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+<strong>Frontend:</strong><br/>
+<img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt&logoColor=white" alt="Nuxt.js" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/DaisyUI-yellow"  alt="DaisyUI"/>
 
-- **Backend & Auth:**
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
+<strong>Backend & Auth:</strong><br/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
 
-- **Hosting:**
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
+<strong>Hosting:</strong><br/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
 
-- **Storage:**
-  <img src="https://img.shields.io/badge/ImageKit-darkblue?style=flat&logoColor=%23ffffff" alt="ImageKit" />
-  <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat&logoColor=white" alt="AWS" />
+<strong>Storage:</strong><br/>
+<img src="https://img.shields.io/badge/ImageKit-darkblue?style=flat&logoColor=%23ffffff" alt="ImageKit" />
+<img src="https://img.shields.io/badge/AW_-232F3E?style=flat&logoColor=white" alt="AWS S3"/>
 
-- **APIs:** OpenAI API
-  <img src="https://img.shields.io/badge/Google_Maps_JS_API-darkgreen?style=flat&logo=google&logoColor=%23ffffff" alt="Google Maps JS API" />
-  <img src="https://img.shields.io/badge/OpenAI-black?style=flat&logo=OpenAi&logoColor=%23ffffff" alt="OpenAI" />
+<strong>APIs:</strong><br/>
+<img src="https://img.shields.io/badge/Google_Maps_JS_API-darkgreen?style=flat&logo=google&logoColor=%23ffffff" alt="Google Maps JS API" />
+<img src="https://img.shields.io/badge/OpenAI-black?style=flat&logo=OpenAi&logoColor=%23ffffff" alt="OpenAI" />
 
-- **Payments:**
-  <img src="https://img.shields.io/badge/Stripe-lightblue?style=flat&logo=Stripe&logoColor=%23ffffff" alt="Stripe" />
-- **Other:** SEO Optimization, Real-Time Chat
+<strong>Payments:</strong><br/>
+<img src="https://img.shields.io/badge/Stripe-lightblue?style=flat&logo=Stripe&logoColor=%23ffffff" alt="Stripe" />
+
+<strong>Other:</strong><br/>
+SEO Optimization, Real-Time Chat
 
 ---
 
@@ -59,41 +68,34 @@ I'm also a current Software Engineering student at the University of California,
 
 ### Key Features
 
-#### Artist & Studio Profiles
+## Key Features at a Glance
 
-- Dynamic profile pages for **artists** and **collectors**
-- AI-generated art tags, descriptions, and titles upon upload
-- Cropping & aspect ratio enforcement for consistent image presentation
-- Artists can link to studios; subscription handled by studio
+### Profiles
 
-#### Art Discovery
+- Artist & studio pages
+- AI auto-tags/titles on upload
+- Smart crop & aspect ratio
+- Link artist ↔ studio (studio pays)
 
-- Swipe to like or pass on art pieces (infinite scrolling + optimized pagination)
-- Tag-based like filtering and search
-- View, manage, and remove liked items
+### Discovery
 
-#### Events System
+- Tinder-style swipe + infinite scroll
+- Tag filters & search
+- Likes: save • view • remove
 
-- Custom event pages for verified artists & studio owners
-- RSVP functionality: see attending artists, get tickets
-- Fully manageable by event hosts
+### Events
 
-#### Real-Time Chat
+- Host-managed event pages
+- RSVP & tickets
+- See attending artists
 
-- Secure customer and artist messaging with Supabase RLS policies
-- Search chats by name, send text & photos
-- "Chat Wizard" prompts customers for details before initiating conversations
+### Chat
 
-#### Subscriptions & Preferences
+- Real-time 1:1 messaging + photos
+- Name search & pre-chat wizard
+- Secure isolation via Supabase RLS
 
-- Stripe-based subscription system for premium features
-- Toggle map visibility, select UI themes, and manage account details
+### Subscriptions & Preferences
 
----
-
-### What I Learned
-
-- Designing scalable **real-time systems** with Supabase and RLS
-- Implementing **AI workflows** into user-facing features
-- **Performance tuning** for complex UI components
-- Creating a **subscription-based SaaS model** with Stripe
+- Stripe subscriptions (artist/studio)
+- Map visibility toggle, themes, account settings
