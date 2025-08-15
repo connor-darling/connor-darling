@@ -70,7 +70,7 @@ SEO Optimization, Real-Time Chat
 - Artist & studio pages
 - AI auto-tags/titles on upload
 - Smart crop & aspect ratio
-- Link artist ↔ studio (studio pays)
+- Link artist and studio (studio pays)
 
 ### Discovery
 
