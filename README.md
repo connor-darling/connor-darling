@@ -34,7 +34,7 @@ I'm also a current Software Engineering student at the University of California,
 
 <strong>Storage:</strong><br/>
 <img src="https://img.shields.io/badge/ImageKit-darkblue?style=flat&logoColor=%23ffffff" alt="ImageKit" />
-<img src="https://img.shields.io/badge/AW_-232F3E?style=flat&logoColor=white" alt="AWS S3"/>
+<img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat&logoColor=white" alt="AWS S3"/>
 
 <strong>APIs:</strong><br/>
 <img src="https://img.shields.io/badge/Google_Maps_JS_API-darkgreen?style=flat&logo=google&logoColor=%23ffffff" alt="Google Maps JS API" />
@@ -61,6 +61,10 @@ SEO Optimization, Real-Time Chat
 
 ## Key Features at a Glance
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
 ### Profiles
 
 - Artist & studio pages
@@ -80,6 +84,9 @@ SEO Optimization, Real-Time Chat
 - RSVP & tickets
 - See attending artists
 
+    </td>
+    <td width="50%" valign="top">
+
 ### Chat
 
 - Real-time 1:1 messaging + photos
@@ -90,3 +97,6 @@ SEO Optimization, Real-Time Chat
 
 - Stripe subscriptions (artist/studio)
 - Map visibility toggle, themes, account settings
+
+    </tr>
+  </table>
