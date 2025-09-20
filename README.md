@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hey, I’m Connor Darling</h2>
+<h2 align="center">I’m Connor Darling</h2>
 
 I’m a software developer passionate about building interactive, high-performance web applications. Currently, my flagship project is **The Inked Network**, a full stack platform that connects tattoo collectors with artists worldwide, featuring AI powered search, auto tagging, and personalized recommendations
 
