@@ -17,86 +17,18 @@ I'm also a current Software Engineering student at the University of California,
 
 ---
 
-### Tech Stack
-
-<strong>Frontend:</strong><br/>
-<img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt&logoColor=white" alt="Nuxt.js" />
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/DaisyUI-yellow"  alt="DaisyUI"/>
-
-<strong>Backend & Auth:</strong><br/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
-
-<strong>Hosting:</strong><br/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
-
-<strong>Storage:</strong><br/>
-<img src="https://img.shields.io/badge/ImageKit-darkblue?style=flat&logoColor=%23ffffff" alt="ImageKit" />
-<img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat&logoColor=white" alt="AWS S3"/>
-
-<strong>APIs:</strong><br/>
-<img src="https://img.shields.io/badge/Google_Maps_JS_API-darkgreen?style=flat&logo=google&logoColor=%23ffffff" alt="Google Maps JS API" />
-<img src="https://img.shields.io/badge/OpenAI-black?style=flat&logo=OpenAi&logoColor=%23ffffff" alt="OpenAI" />
-
-<strong>Payments:</strong><br/>
-<img src="https://img.shields.io/badge/Stripe-lightblue?style=flat&logo=Stripe&logoColor=%23ffffff" alt="Stripe" />
-
-<strong>Other:</strong><br/>
-SEO Optimization, Real-Time Chat
-
----
-
-### 📊 Project Highlights
-
-- **170+ Artist Sign-Ups** within initial launch period
-- **High-Performance Swiper Pagination** — optimized DOM node handling for smooth Tinder-like swiping
-- **AI-Powered Search** — enables users to find art and artists more intuitively
-- **Google Maps Integration** — interactive pins showing studios and artists by location
-- **Image Optimization Pipeline** — compression, resizing, and CDN caching for fast load times
-- **SEO-First Approach** — implemented meta tags, structured data, and SSR optimizations for visibility
-
----
-
-## Key Features at a Glance
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-
-### Profiles
-
-- Artist & studio pages
-- AI auto-tags/titles on upload
-- Smart crop & aspect ratio
-- Link artist and studio (studio pays)
-
-### Discovery
-
-- Tinder-style swipe + infinite scroll
-- Tag filters & search
-- Likes: save • view • remove
-
-### Events
-
-- Host-managed event pages
-- RSVP & tickets
-- See attending artists
-
-    </td>
-    <td width="50%" valign="top">
-
-### Chat
-
-- Real-time 1:1 messaging + photos
-- Name search & pre-chat wizard
-- Secure isolation via Supabase RLS
-
-### Subscriptions & Preferences
-
-- Stripe subscriptions (artist/studio)
-- Map visibility toggle, themes, account settings
-
-    </tr>
-  </table>
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-2D2D2D?style=flat&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Vue.js-2D2D2D?style=flat&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Nuxt-2D2D2D?style=flat&logo=nuxt&logoColor=00DC82" />
+  <img src="https://img.shields.io/badge/C++-2D2D2D?style=flat&logo=c%2B%2B&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/Python-2D2D2D?style=flat&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/React-2D2D2D?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Java-2D2D2D?style=flat&logo=java&logoColor=ED8B00" />
+  <img src="https://img.shields.io/badge/Tailwind-2D2D2D?style=flat&logo=tailwind-css&logoColor=38B2AC" />
+  <img src="https://img.shields.io/badge/Docker-2D2D2D?style=flat&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/PostgreSQL-2D2D2D?style=flat&logo=postgresql&logoColor=336791" />
+  <img src="https://img.shields.io/badge/Supabase-2D2D2D?style=flat&logo=supabase&logoColor=3ECF8E" />
+  <img src="https://img.shields.io/badge/AWS-2D2D2D?style=flat&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Vercel-2D2D2D?style=flat&logo=vercel&logoColor=FFFFFF" />
+</div>
